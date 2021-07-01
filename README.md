@@ -1,6 +1,7 @@
 # chat_app
 
 A new Flutter project.
+Note: This App is still in development. Updates will be coming soon.
 
 ## Getting Started
 
